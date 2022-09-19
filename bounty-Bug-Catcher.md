@@ -23,9 +23,9 @@ Bug Catcher is a completed prototype of a full stack application. It is a test a
 4. Walk through implementing the login
 
 ## Associate Instructions
-- Clone Bug Catcher feature repo
-- Create a new project that performs the automation tests for those feature files
-- The read me in the repo has more instructions and details
+1. Clone Bug Catcher feature repo
+2. Create a new project that performs the automation tests for those feature files
+3. The read me in the repo has more instructions and details
 
 
 ### Important Notes
