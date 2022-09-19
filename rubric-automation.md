@@ -25,6 +25,7 @@
 |-------|------|----------|-----|
 |Bug Catcher|Project|2 weeks| 10 |
 |inFormed| Coding Activity| 1-2 days| 4 |
+|Actions API Practice|Coding Activity|1 day|2|
 |Build a site|Coding Activity|1 day| 2 |
 |XPath Hero | Coding Activity| 1 day | 2|
 |Wiki Automation | Walkthrough Example | 1 day | 2 |
