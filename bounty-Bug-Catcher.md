@@ -15,17 +15,16 @@ Bug Catcher is a completed prototype of a full stack application. It is a test a
 - Generate their own test reports
 
 ## Trainer Instructions
-1. Share link to inFormed GitHub repo
-2. Obtain link for a deployed version from COE
-3. Give each associate a login link
+1. Obtain link for a deployed version of Bug Catcher from COE
+2. Give each associate a login link
    1. each associate should have a different dev number in the URL
    2. Whenever they login they should use that dev number
-4. Walk through implementing the login
+3. Walk through implementing the login
 
 ## Associate Instructions
-- Clone Bug Catcher feature repo
-- Create a new project that performs the automation tests for those feature files
-- The read me in the repo has more instructions and details
+1. Clone Bug Catcher feature repo
+2. Create a new project that performs the automation tests for those feature files
+3. The read me in the repo has more instructions and details
 
 
 ### Important Notes
