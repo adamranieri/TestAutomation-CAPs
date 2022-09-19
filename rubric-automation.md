@@ -28,7 +28,7 @@
 |Build a site|Coding Activity|1 day| 2 |
 |XPath Hero | Coding Activity| 1 day | 2|
 |Wiki Automation | Walkthrough Example | 1 day | 2 |
-|E2E tests on project 2 | Project | 2 weeks | 4 |
+|E2E tests on project | Project | 2 weeks | 4 |
 |Automation Competency Exam| Exam | 1 hour |(Exam Score % * 10) - 7 |
 - 70% is considered the floor for the automation exam
   - If they score below it

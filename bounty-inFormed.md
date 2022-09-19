@@ -1,7 +1,7 @@
 # inFormed
 
 ## Important Resources
-- [inFormed](https://github.com/adamranieri/JWA-Activities/tree/master/inFormed)
+- [inFormed](https://github.com/adamranieri/inFormed)
 
 
 ## Time
